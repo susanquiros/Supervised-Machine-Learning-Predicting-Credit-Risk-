@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+Credit Risk Evaluator.done.ipynb
 # Distribution / packaging
 .Python
 build/
